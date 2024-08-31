@@ -1,7 +1,3 @@
-# Soluções de Programação
-
-Este repositório contém soluções para uma série de problemas de programação implementados em JavaScript. Cada problema é descrito e solucionado com um código exemplo. As soluções abordam cálculos financeiros, manipulação de strings e análise de dados. Abaixo está uma descrição geral do que cada programa faz.
-
 ## Problemas e Soluções
 
 ### Problema 1: Cálculo de Faturamento Total
